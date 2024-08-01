@@ -5,7 +5,8 @@
   "name": "NoCreativeDrift",
   "description": "",
   "authors": [
-    "DarkPred"
+    "DarkPred",
+    "KadTheHunter"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/nocreativedrift",
@@ -25,8 +26,8 @@
   "depends": {
     "fabricloader": ">=0.14.21",
     "fabric": "*",
-    "minecraft": "~1.20.4",
-    "java": ">=17",
+    "minecraft": "~1.21",
+    "java": ">=21",
     "fabric-key-binding-api-v1": "*"
   }
 }
